@@ -1,0 +1,142 @@
+[
+  {
+    "id": "quote_001",
+    "emotion": "sad",
+    "quote_en": "Even the darkest night will end and the sun will rise.",
+    "quote_ta": "இருண்ட இரவும் முடிவடையும், சூரியன் உதிக்கும்.",
+    "author": "Victor Hugo"
+  },
+  {
+    "id": "quote_002",
+    "emotion": "sad",
+    "quote_en": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+    "quote_ta": "நீங்கள் நம்புவதை விட தைரியமானவர், தோன்றுவதை விட வலிமையானவர், நினைப்பதை விட புத்திசாலி.",
+    "author": "A.A. Milne"
+  },
+  {
+    "id": "quote_003",
+    "emotion": "anxious",
+    "quote_en": "You don't have to control your thoughts. You just have to stop letting them control you.",
+    "quote_ta": "உங்கள் எண்ணங்களை கட்டுப்படுத்த வேண்டியதில்லை. அவை உங்களை கட்டுப்படுத்துவதை நிறுத்தினால் போதும்.",
+    "author": "Dan Millman"
+  },
+  {
+    "id": "quote_004",
+    "emotion": "anxious",
+    "quote_en": "Anxiety does not empty tomorrow of its sorrows, but only empties today of its strength.",
+    "quote_ta": "பதட்டம் நாளையின் துக்கத்தை காலி செய்யாது, இன்றைய வலிமையை மட்டுமே காலி செய்கிறது.",
+    "author": "Charles Spurgeon"
+  },
+  {
+    "id": "quote_005",
+    "emotion": "stressed",
+    "quote_en": "Almost everything will work again if you unplug it for a few minutes, including you.",
+    "quote_ta": "சில நிமிடங்கள் துண்டித்தால் கிட்டத்தட்ட எல்லாம் மீண்டும் வேலை செய்யும், நீங்கள் உட்பட.",
+    "author": "Anne Lamott"
+  },
+  {
+    "id": "quote_006",
+    "emotion": "stressed",
+    "quote_en": "It's not the load that breaks you down, it's the way you carry it.",
+    "quote_ta": "உங்களை உடைப்பது சுமை அல்ல, நீங்கள் அதை சுமக்கும் விதம்தான்.",
+    "author": "Lou Holtz"
+  },
+  {
+    "id": "quote_007",
+    "emotion": "lonely",
+    "quote_en": "Sometimes you need to be alone. Not to be lonely, but to enjoy your free time being yourself.",
+    "quote_ta": "சில நேரங்களில் நீங்கள் தனியாக இருக்க வேண்டும். தனிமையாக இருக்க அல்ல, உங்களாக இருக்கும் சுதந்திர நேரத்தை அனுபவிக்க.",
+    "author": "Unknown"
+  },
+  {
+    "id": "quote_008",
+    "emotion": "lonely",
+    "quote_en": "The soul that sees beauty may sometimes walk alone.",
+    "quote_ta": "அழகை பார்க்கும் ஆன்மா சில நேரங்களில் தனியாக நடக்கலாம்.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "id": "quote_009",
+    "emotion": "overwhelmed",
+    "quote_en": "You don't have to see the whole staircase, just take the first step.",
+    "quote_ta": "முழு படிக்கட்டையும் பார்க்க வேண்டியதில்லை, முதல் படியை எடுத்து வையுங்கள்.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "id": "quote_010",
+    "emotion": "overwhelmed",
+    "quote_en": "One small crack does not mean you are broken, it means you were put to the test and you didn't fall apart.",
+    "quote_ta": "ஒரு சிறிய விரிசல் நீங்கள் உடைந்துவிட்டீர்கள் என்று அர்த்தமல்ல, நீங்கள் சோதனைக்கு உட்படுத்தப்பட்டீர்கள் மற்றும் நீங்கள் சிதறவில்லை என்று அர்த்தம்.",
+    "author": "Linda Poindexter"
+  },
+  {
+    "id": "quote_011",
+    "emotion": "angry",
+    "quote_en": "For every minute you are angry, you lose sixty seconds of happiness.",
+    "quote_ta": "நீங்கள் கோபமாக இருக்கும் ஒவ்வொரு நிமிடத்திற்கும், அறுபது விநாடிகள் மகிழ்ச்சியை இழக்கிறீர்கள்.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": "quote_012",
+    "emotion": "angry",
+    "quote_en": "Holding onto anger is like drinking poison and expecting the other person to die.",
+    "quote_ta": "கோபத்தை பிடித்துக் கொள்வது நஞ்சு குடித்து மற்றவர் இறக்க எதிர்பார்ப்பது போன்றது.",
+    "author": "Buddha"
+  },
+  {
+    "id": "quote_013",
+    "emotion": "hopeful",
+    "quote_en": "Hope is being able to see that there is light despite all of the darkness.",
+    "quote_ta": "எல்லா இருளிலும் வெளிச்சம் இருக்கிறது என்று பார்க்க முடிவது நம்பிக்கை.",
+    "author": "Desmond Tutu"
+  },
+  {
+    "id": "quote_014",
+    "emotion": "hopeful",
+    "quote_en": "The best way out is always through.",
+    "quote_ta": "வெளியேறுவதற்கான சிறந்த வழி எப்போதும் உள்ளே இருந்து கடந்து செல்வதுதான்.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": "quote_015",
+    "emotion": "neutral",
+    "quote_en": "Mental health is not a destination, but a process. It's about how you drive, not where you're going.",
+    "quote_ta": "மன ஆரோக்கியம் ஒரு இலக்கு அல்ல, ஒரு செயல்முறை. நீங்கள் எப்படி ஓட்டுகிறீர்கள் என்பதுதான், நீங்கள் எங்கு செல்கிறீர்கள் என்பது அல்ல.",
+    "author": "Noam Shpancer"
+  },
+  {
+    "id": "quote_016",
+    "emotion": "neutral",
+    "quote_en": "Your mental health is a priority. Your happiness is essential. Your self-care is a necessity.",
+    "quote_ta": "உங்கள் மன ஆரோக்கியம் ஒரு முன்னுரிமை. உங்கள் மகிழ்ச்சி அவசியம். உங்கள் சுய பராமரிப்பு ஒரு தேவை.",
+    "author": "Unknown"
+  },
+  {
+    "id": "quote_017",
+    "emotion": "sad",
+    "quote_en": "Tears are words that need to be written.",
+    "quote_ta": "கண்ணீர் என்பது எழுதப்பட வேண்டிய வார்த்தைகள்.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "id": "quote_018",
+    "emotion": "anxious",
+    "quote_en": "Nothing can bring you peace but yourself.",
+    "quote_ta": "உங்களைத் தவிர வேறு எதுவும் உங்களுக்கு அமைதியை தர முடியாது.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": "quote_019",
+    "emotion": "stressed",
+    "quote_en": "Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit.",
+    "quote_ta": "நீங்கள் சோர்வாக இருக்கும் போது ஓய்வு எடுங்கள். உங்களை, உங்கள் உடலை, மனதை, ஆன்மாவை புதுப்பித்து புதுப்பிக்கவும்.",
+    "author": "Ralph Marston"
+  },
+  {
+    "id": "quote_020",
+    "emotion": "lonely",
+    "quote_en": "Being alone has a power that very few people can handle.",
+    "quote_ta": "தனியாக இருப்பதில் ஒரு சக்தி உள்ளது, அதை மிகச் சிலரால் மட்டுமே கையாள முடியும்.",
+    "author": "Steven Aitchison"
+  }
+]

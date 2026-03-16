@@ -1,0 +1,352 @@
+[
+{
+"id": "intent_001",
+"intent": "sadness_support",
+"emotion": "sad",
+"text_en": "It’s okay to feel sad sometimes. You don’t have to carry everything alone.",
+"text_ta": "சில நேரங்களில் சோகமாக உணர்வது சரிதான். எல்லாவற்றையும் நீ ஒருத்தரா சுமக்க வேண்டியதில்லை."
+},
+{
+"id": "intent_002",
+"intent": "anxiety_calming",
+"emotion": "anxious",
+"text_en": "Take a deep breath. You are safe in this moment, and we can take things one small step at a time.",
+"text_ta": "மெதுவா மூச்சை உள்ள இழுத்து விடுங்க. இப்போ நீங்க பாதுகாப்பா இருக்கீங்க, சின்ன சின்னதா அடுத்த கட்டத்தை பத்தி யோசிக்கலாம்."
+},
+{
+"id": "intent_003",
+"intent": "stress_validation",
+"emotion": "stressed",
+"text_en": "I can hear how much pressure you are under. It is okay to take a break and rest for a while.",
+"text_ta": "நீங்க எவ்வளவு அழுத்தத்துல இருக்கீங்கன்னு எனக்கு புரியுது. கொஞ்ச நேரம் ஓய்வு எடுக்குறதுல தப்பு இல்ல."
+},
+{
+"id": "intent_004",
+"intent": "overwhelmed_guidance",
+"emotion": "overwhelmed",
+"text_en": "When everything feels like too much, it's okay to step back. Let's focus on just one small thing you can control right now.",
+"text_ta": "எல்லாமே அதிகமா இருக்குற மாதிரி தோணும்போது, கொஞ்சம் பின்வாங்குறதுல தப்பு இல்ல. இப்போதைக்கு உங்களால முடிஞ்ச ஒரு சின்ன விஷயத்தை மட்டும் பார்ப்போம்."
+},
+{
+"id": "intent_005",
+"intent": "loneliness_comfort",
+"emotion": "lonely",
+"text_en": "Feeling alone is hard, but I am here to listen. You are not invisible to me.",
+"text_ta": "தனியா இருக்குறது கஷ்டமா இருக்கலாம், ஆனா நான் உங்க பேச்சை கேட்க இங்க இருக்கேன். நீங்க எனக்கு முக்கியம்."
+},
+{
+"id": "intent_006",
+"intent": "anger_validation",
+"emotion": "angry",
+"text_en": "It’s understandable that you feel angry right now. Your feelings are valid when things feel unfair.",
+"text_ta": "நீங்க இப்போ கோபமா இருக்குறது நியாயம் தான். விஷயங்கள் சரியா நடக்காத போது இப்படி தோணுவது இயல்பு."
+},
+{
+"id": "intent_007",
+"intent": "neutral_checkin",
+"emotion": "neutral",
+"text_en": "How are you feeling today? I'm here whenever you want to share anything at all.",
+"text_ta": "இன்னைக்கு உங்க மனநிலை எப்படி இருக்கு? எப்போ வேணாலும் என்கிட்ட எதை வேணாலும் பகிர்ந்துக்கலாம்."
+},
+{
+"id": "intent_008",
+"intent": "low_energy_sadness",
+"emotion": "sad",
+"text_en": "It is okay if you don't have the energy to do much today. Be gentle with yourself.",
+"text_ta": "இன்னைக்கு எதையும் செய்ய தெம்பு இல்லனாலும் பரவாயில்லை. உங்களை நீங்களே வருத்திக்காதீங்க."
+},
+{
+"id": "intent_009",
+"intent": "racing_thoughts_anxious",
+"emotion": "anxious",
+"text_en": "Your mind is racing, but we can slow down together. Try to name three things you can see around you.",
+"text_ta": "உங்க மனசு வேகமா ஓடுது, ஆனா நாம ஒன்னா சேர்ந்து அதை குறைக்கலாம். உங்களை சுத்தி இருக்குற மூணு பொருட்களை சொல்லுங்க."
+},
+{
+"id": "intent_010",
+"intent": "workload_stress",
+"emotion": "stressed",
+"text_en": "You've been working so hard lately. Remember that your worth is not defined by your productivity.",
+"text_ta": "நீங்க ரொம்ப கடினமா உழைச்சிட்டு இருக்கீங்க. ஆனா உங்க மதிப்பு நீங்க செய்ற வேலையை மட்டும் வச்சு இல்ல."
+},
+{
+"id": "intent_011",
+"intent": "sensory_overload",
+"emotion": "overwhelmed",
+"text_en": "The world feels very loud right now. Finding a quiet space for a few minutes might help you feel more grounded.",
+"text_ta": "உலகமே ரொம்ப சத்தமா இருக்குற மாதிரி இருக்கா? ஒரு அஞ்சு நிமிஷம் அமைதியான இடத்துல இருக்குறது உங்களுக்கு நிம்மதி தரும்."
+},
+{
+"id": "intent_012",
+"intent": "missing_connection_lonely",
+"emotion": "lonely",
+"text_en": "It’s hard when you feel like no one truly understands you. I am here to offer a safe space for your thoughts.",
+"text_ta": "யாரும் உங்களை புரிஞ்சுக்கலன்னு தோணுனா வருத்தமா இருக்கும். உங்க எண்ணங்களை என்கிட்ட தயக்கமில்லாம சொல்லலாம்."
+},
+{
+"id": "intent_013",
+"intent": "frustration_release",
+"emotion": "angry",
+"text_en": "I can hear the frustration in your words. It’s okay to let that energy out in a safe way.",
+"text_ta": "உங்க பேச்சிலேயே அந்த எரிச்சல் தெரியுது. அந்த கோபத்தை பாதுகாப்பான முறையில வெளிய கொண்டு வர்றதுல தப்பு இல்ல."
+},
+{
+"id": "intent_014",
+"intent": "daily_reflection_neutral",
+"emotion": "neutral",
+"text_en": "Sometimes it's nice to just sit and be still. How has your day been going so far?",
+"text_ta": "சில நேரங்கள்ல சும்மா அமைதியா இருக்குறது கூட நல்லா தான் இருக்கும். இன்னைக்கு நாள் இதுவரைக்கும் எப்படி போச்சு?"
+},
+{
+"id": "intent_015",
+"intent": "hopelessness_sad",
+"emotion": "sad",
+"text_en": "Even when things feel dark, please know that you are valued. I’m here to sit with you through this.",
+"text_ta": "சூழ்நிலை இருட்டா தெரிந்தாலும், நீங்க ரொம்ப முக்கியம்னு தெரிஞ்சுக்கோங்க. இந்த கஷ்டமான நேரத்துல நான் உங்க கூட இருப்பேன்."
+},
+{
+"id": "intent_016",
+"intent": "uncertainty_anxious",
+"emotion": "anxious",
+"text_en": "The future can feel scary because it is uncertain. Let's try to focus on just today.",
+"text_ta": "எதிர்காலம் நிச்சயமற்றதா இருக்குறது பயமா தான் இருக்கும். நாம இன்னைக்கு பத்தி மட்டும் யோசிப்போம்."
+},
+{
+"id": "intent_017",
+"intent": "burnout_stressed",
+"emotion": "stressed",
+"text_en": "You are doing your best, and that is enough. Give yourself permission to rest your mind.",
+"text_ta": "நீங்க உங்களால முடிஞ்சத செய்றீங்க, அதுவே போதும். மனசுக்கு கொஞ்சம் ஓய்வு கொடுங்க."
+},
+{
+"id": "intent_018",
+"intent": "indecision_overwhelmed",
+"emotion": "overwhelmed",
+"text_en": "Making decisions can be exhausting when you're overwhelmed. It's okay to wait until you feel a bit clearer.",
+"text_ta": "மனம் குழப்பமா இருக்கும்போது முடிவெடுக்குறது கஷ்டம். தெளிவு கிடைக்கும் வரை காத்திருக்கிறதுல தப்பு இல்ல."
+},
+{
+"id": "intent_019",
+"intent": "social_isolation_lonely",
+"emotion": "lonely",
+"text_en": "Isolation can feel very heavy. Even if we are just chatting here, I'm glad to be connected with you.",
+"text_ta": "தனியா இருக்குறது ரொம்ப பாரமா இருக்கும். நாம இங்க பேசிக்கிறது எனக்கு சந்தோஷமே."
+},
+{
+"id": "intent_020",
+"intent": "betrayal_anger",
+"emotion": "angry",
+"text_en": "It hurts when trust is broken. It is natural to feel a lot of anger about what happened.",
+"text_ta": "நம்பிக்கை துரோகம் நடக்கும்போது வலிக்கும். அந்த விஷயத்தை நினைச்சு கோபம் வர்றது ரொம்ப இயல்பானது."
+},
+{
+"id": "intent_021",
+"intent": "calm_observation_neutral",
+"emotion": "neutral",
+"text_en": "Checking in on yourself is a great habit. Is there anything on your mind you'd like to mention?",
+"text_ta": "உங்க மனசு எப்படி இருக்குன்னு கவனிக்குறது ஒரு நல்ல பழக்கம். மனசுல ஏதாவது இருந்தா சொல்லுங்க."
+},
+{
+"id": "intent_022",
+"intent": "grief_sadness",
+"emotion": "sad",
+"text_en": "Grief takes time and there is no right way to do it. Please be patient with your heart.",
+"text_ta": "துக்கத்துல இருந்து மீண்டு வர நேரமாகும். உங்க மனசுக்கு தேவையான கால அவகாசத்தை கொடுங்க."
+},
+{
+"id": "intent_023",
+"intent": "social_anxiety",
+"emotion": "anxious",
+"text_en": "Being around people can be draining sometimes. It's okay to take a break and find your own space.",
+"text_ta": "மத்தவங்க கூட இருக்குறது சில நேரம் சோர்வா இருக்கலாம். தனியா கொஞ்ச நேரம் இருக்குறதுல தப்பு இல்ல."
+},
+{
+"id": "intent_024",
+"intent": "deadline_stress",
+"emotion": "stressed",
+"text_en": "Deadlines can feel like a lot of pressure. Let's break things down into smaller, manageable parts.",
+"text_ta": "நேரம் குறைவா இருக்கும்போது அழுத்தம் அதிகமாகும். எல்லாத்தையும் சின்ன சின்ன பகுதிகளா பிரிச்சு செய்ய முயற்சிப்போம்."
+},
+{
+"id": "intent_025",
+"intent": "cluttered_mind_overwhelmed",
+"emotion": "overwhelmed",
+"text_en": "When your thoughts feel cluttered, try writing them down. It can help to get them out of your head.",
+"text_ta": "யோசனைகள் ரொம்ப குழப்பமா இருந்தா, அதை ஒரு பேப்பர்ல எழுதி பாருங்க. அது மனசுக்கு கொஞ்சம் தெளிவு தரும்."
+},
+{
+"id": "intent_026",
+"intent": "feeling_unseen_lonely",
+"emotion": "lonely",
+"text_en": "It’s a heavy feeling to be in a room full of people and still feel invisible. I want you to know that your presence matters to me.",
+"text_ta": "நிறைய பேருக்கு நடுவுல இருந்தும், யாரும் நம்மள கவனிக்கலன்னு நினைக்குறது கஷ்டம். நீங்க எனக்கு முக்கியமானவங்கன்னு தெரிஞ்சுக்கோங்க."
+},
+{
+"id": "intent_027",
+"intent": "self_directed_anger",
+"emotion": "angry",
+"text_en": "You are being very hard on yourself right now. Try to speak to yourself with the same kindness you would offer a dear friend.",
+"text_ta": "உங்களை நீங்களே ரொம்ப வருத்திக்கிறீங்க. ஒரு நண்பருக்கு கொடுக்கிற அதே அன்பை உங்களுக்கும் கொடுத்துக்க முயற்சி பண்ணுங்க."
+},
+{
+"id": "intent_028",
+"intent": "quiet_moment_neutral",
+"emotion": "neutral",
+"text_en": "Sometimes silence is exactly what the mind needs. I'm here in the quiet with you whenever you're ready to talk.",
+"text_ta": "சில நேரங்கள்ல அமைதி தான் மனசுக்கு தேவைப்படும். நீங்க பேசத் தயாராகும் வரை நான் உங்க கூடவே இருப்பேன்."
+},
+{
+"id": "intent_029",
+"intent": "crying_normalization_sad",
+"emotion": "sad",
+"text_en": "Tears are a natural way for your body to release the pressure you've been holding. Let it out; there is no shame in crying.",
+"text_ta": "கண்ணீர் வர்றது தப்பு இல்ல, அது மனசுக்குள்ள இருக்குற பாரத்தை குறைக்க ஒரு வழி. மனசு விட்டு அழுதா நிம்மதியா இருக்கும்."
+},
+{
+"id": "intent_030",
+"intent": "panic_grounding_anxious",
+"emotion": "anxious",
+"text_en": "If you feel panicky, focus on the feeling of your feet on the floor. You are here, you are grounded, and this feeling will pass.",
+"text_ta": "உங்களுக்கு பதட்டமா இருந்தா, தரை மேல இருக்குற உங்க கால்களை கவனிங்க. நீங்க பாதுகாப்பா இருக்கீங்க, இந்த பயம் சீக்கிரம் போயிடும்."
+},
+{
+"id": "intent_031",
+"intent": "perfectionism_stress",
+"emotion": "stressed",
+"text_en": "The need to be perfect is an exhausting burden to carry. It’s okay to be a human being who makes mistakes and learns.",
+"text_ta": "எல்லாத்துலயும் கச்சிதமா இருக்கணும்னு நினைக்குறது பெரிய பாரம். தப்பு செஞ்சு அதுல இருந்து கத்துக்குறதுல தப்பு இல்ல."
+},
+{
+"id": "intent_032",
+"intent": "emotional_fatigue_overwhelmed",
+"emotion": "overwhelmed",
+"text_en": "You have been holding so much for so long. It is okay if you feel like you can't take on anything else today.",
+"text_ta": "நீங்க ரொம்ப நாளா நிறைய விஷயங்களை தாங்கிட்டு இருக்கீங்க. இன்னைக்கு இதுக்கு மேல எதையும் செய்ய முடியலனாலும் பரவாயில்லை."
+},
+{
+"id": "intent_033",
+"intent": "missing_home_lonely",
+"emotion": "lonely",
+"text_en": "Missing the places and people where you feel safe is a very deep ache. It’s okay to long for that comfort.",
+"text_ta": "உங்களுக்கு பிடிச்ச இடங்களையும் மனுஷங்களையும் நினைச்சு ஏங்குறது கஷ்டமா இருக்கும். அந்த நினைவுகள் வர்றது இயல்பு தான்."
+},
+{
+"id": "intent_034",
+"intent": "unfair_situation_anger",
+"emotion": "angry",
+"text_en": "It is deeply frustrating when things are out of balance or unfair. Your anger is a sign that you care about respect and justice.",
+"text_ta": "விஷயங்கள் அநீதியா நடக்கும்போது கோபம் வர்றது நியாயம் தான். நீங்க மரியாதையையும் நீதியையும் மதிக்குறீங்கன்னு இது காட்டுது."
+},
+{
+"id": "intent_035",
+"intent": "simple_presence_neutral",
+"emotion": "neutral",
+"text_en": "You don't need to have something important to say to talk to me. I'm just happy to be here with you.",
+"text_ta": "என்கிட்ட பேசுறதுக்கு பெரிய விஷயம் எதுவும் இருக்கணும்னு அவசியம் இல்ல. உங்க கூட இருக்குறது எனக்கு சந்தோஷமே."
+},
+{
+"id": "intent_036",
+"intent": "heavy_heart_sad",
+"emotion": "sad",
+"text_en": "I can feel the weight in your words today. Please take all the time you need to process these feelings.",
+"text_ta": "உங்க பேச்சிலேயே மன பாரம் தெரியுது. இந்த உணர்வுகளை புரிஞ்சுக்க உங்களுக்கு எவ்வளவு நேரம் வேணுமோ அவ்வளவு எடுத்துக்கோங்க."
+},
+{
+"id": "intent_037",
+"intent": "judgment_fear_anxious",
+"emotion": "anxious",
+"text_en": "Worrying about what others think can be so paralyzing. Remember that you are the only one who needs to approve of your life.",
+"text_ta": "மத்தவங்க என்ன நினைப்பாங்களோன்னு கவலைப்படுறது நம்மள முடக்கிடும். உங்க வாழ்க்கைக்கு நீங்க தான் நீதிபதி."
+},
+{
+"id": "intent_038",
+"intent": "physical_tension_stress",
+"emotion": "stressed",
+"text_en": "Your body might be holding onto the stress you feel. Try dropping your shoulders and unclenching your jaw for a second.",
+"text_ta": "உங்க மன அழுத்தம் உடம்புல வலியா தெரியலாம். கொஞ்சம் தோள்களை தளர்த்தி, முகத்தை லேசா வச்சுக்க முயற்சி பண்ணுங்க."
+},
+{
+"id": "intent_039",
+"intent": "decision_paralysis_overwhelmed",
+"emotion": "overwhelmed",
+"text_en": "When there are too many paths, it's easy to feel stuck. Let's just focus on the very next step, no matter how tiny it is.",
+"text_ta": "நிறைய வழிகள் இருக்கும்போது எதை தேர்ந்தெடுக்கிறதுன்னு குழப்பம் வரும். இப்போதைக்கு அடுத்த ஒரு சின்ன அடியை மட்டும் எடுத்து வைப்போம்."
+},
+{
+"id": "intent_040",
+"intent": "lost_friendship_lonely",
+"emotion": "lonely",
+"text_en": "Losing a connection with a friend can feel like losing a part of yourself. It's okay to mourn that space in your life.",
+"text_ta": "ஒரு நண்பரோட உறவு முடியும்போது மனசுக்கு ரொம்ப வலிக்கும். அந்த இழப்பை நினைச்சு வருத்தப்படுறதுல தப்பு இல்ல."
+},
+{
+"id": "intent_041",
+"intent": "irritability_anger",
+"emotion": "angry",
+"text_en": "When everything feels irritating, it's often a sign that you're reached your limit. It's okay to step away for a moment.",
+"text_ta": "எல்லா விஷயமும் எரிச்சலா இருக்குனா, நீங்க ரொம்ப சோர்ந்து போயிருக்கீங்கன்னு அர்த்தம். கொஞ்ச நேரம் எல்லாத்துல இருந்தும் விலகி இருங்க."
+},
+{
+"id": "intent_042",
+"intent": "just_being_neutral",
+"emotion": "neutral",
+"text_en": "You don't have to be productive or happy every second. Just existing and being here is enough for now.",
+"text_ta": "எல்லா நேரமும் எதையாவது செஞ்சுட்டே இருக்கணும்னு இல்ல. அமைதியா இருக்குறதே இப்போதைக்கு போதும்."
+},
+{
+"id": "intent_043",
+"intent": "sadness_reflection",
+"emotion": "sad",
+"text_en": "Sometimes sadness is our heart's way of telling us something needs to change. What is your heart saying today?",
+"text_ta": "சில நேரம் ஏதோ ஒரு மாற்றம் தேவைப்படுதுன்னு சொல்ல தான் சோகம் வரும். உங்க மனசு இன்னைக்கு என்ன சொல்லுது?"
+},
+{
+"id": "intent_044",
+"intent": "worry_loop_anxious",
+"emotion": "anxious",
+"text_en": "It’s hard to stop the 'what-if' thoughts once they start. Let's try to focus on one thing that is true and certain right now.",
+"text_ta": "'ஒருவேளை இப்படி நடந்தா?' அப்படின்னு யோசிச்சுட்டே இருக்கிறது கஷ்டம். இப்போதைக்கு நிச்சயமா இருக்குற ஒரு விஷயத்தை மட்டும் யோசிப்போம்."
+},
+{
+"id": "intent_045",
+"intent": "comparison_stress",
+"emotion": "stressed",
+"text_en": "Comparing your behind-the-scenes to everyone else's highlight reel is exhausting. You are on your own unique timeline.",
+"text_ta": "மத்தவங்க வாழ்க்கையோட உங்களை ஒப்பிட்டு பாக்குறது சோர்வைத் தரும். உங்களுக்கென்று ஒரு தனிப்பாதை இருக்கு."
+},
+{
+"id": "intent_046",
+"intent": "shattered_focus_overwhelmed",
+"emotion": "overwhelmed",
+"text_en": "It’s okay if you can’t focus right now. Your brain is trying to process a lot, and it needs a little grace.",
+"text_ta": "இப்போ உங்களால எதையும் கவனிக்க முடியலனா பரவாயில்லை. உங்க மூளை நிறைய விஷயங்களை யோசிக்குது, அதுக்கு கொஞ்சம் டைம் கொடுங்க."
+},
+{
+"id": "intent_047",
+"intent": "lonely_holiday",
+"emotion": "lonely",
+"text_en": "Holidays or special days can feel especially lonely when things aren't as you hoped. I'm here to spend this time with you.",
+"text_ta": "விசேஷ நாட்கள்ல தனியா இருக்குறது இன்னும் கஷ்டமா இருக்கும். இந்த நேரத்துல நான் உங்க கூட துணையா இருக்கேன்."
+},
+{
+"id": "intent_048",
+"intent": "defensive_anger",
+"emotion": "angry",
+"text_en": "Anger can sometimes act as a shield when we feel threatened or hurt. It’s okay to acknowledge that you’re protecting yourself.",
+"text_ta": "நமக்கு ஒரு காயம் ஏற்படும்போது கோபம் ஒரு கேடயம் போல செயல்படும். உங்களை நீங்களே பாதுகாக்குறீங்கன்னு புரிஞ்சுக்கோங்க."
+},
+{
+"id": "intent_049",
+"intent": "steady_breath_neutral",
+"emotion": "neutral",
+"text_en": "There is a quiet strength in just sitting with yourself. How does your breathing feel in this moment?",
+"text_ta": "உங்க கூட நீங்களே அமைதியா இருக்குறதுல ஒரு பலம் இருக்கு. இப்போ உங்க மூச்சு எப்படி இருக்குன்னு கவனிங்க."
+},
+{
+"id": "intent_050",
+"intent": "fading_interest_sad",
+"emotion": "sad",
+"text_en": "It’s tough when things you used to love don't bring you joy right now. Be patient; those feelings will return in time.",
+"text_ta": "பிடிச்ச விஷயங்கள்ல கூட இப்போ ஆர்வம் இல்லாம போறது கஷ்டம் தான். பொறுமையா இருங்க, அந்த ஆர்வம் திரும்ப வரும்."
+}
+]

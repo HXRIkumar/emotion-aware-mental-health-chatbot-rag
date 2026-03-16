@@ -1,0 +1,72 @@
+[
+  {
+    "id": "meme_001",
+    "emotion_tags": ["sad", "lonely"],
+    "caption_en": "When you're sad but remember pizza exists 🍕",
+    "caption_ta": "நீங்கள் சோகமாக இருக்கும்போது ஆனால் பீட்சா இருக்கிறது என்று நினைவில் வருகிறது",
+    "local_path": "data/memes/meme_001.png"
+  },
+  {
+    "id": "meme_002",
+    "emotion_tags": ["anxious", "stressed"],
+    "caption_en": "Me pretending I have my life together 😅",
+    "caption_ta": "என் வாழ்க்கை கட்டுப்பாட்டில் இருப்பது போல் நடிக்கிறேன்",
+    "local_path": "data/memes/meme_002.png"
+  },
+  {
+    "id": "meme_003",
+    "emotion_tags": ["overwhelmed"],
+    "caption_en": "My to-do list vs. my mental capacity 📋",
+    "caption_ta": "என் செய்ய வேண்டிய பட்டியல் vs என் மன திறன்",
+    "local_path": "data/memes/meme_003.png"
+  },
+  {
+    "id": "meme_004",
+    "emotion_tags": ["stressed"],
+    "caption_en": "Stress level: currently looking like a stress ball 😬",
+    "caption_ta": "மன அழுத்த நிலை: தற்போது ஒரு மன அழுத்த பந்து போல் தோற்றமளிக்கிறது",
+    "local_path": "data/memes/meme_004.png"
+  },
+  {
+    "id": "meme_005",
+    "emotion_tags": ["lonely"],
+    "caption_en": "My social battery: critically low 🔋",
+    "caption_ta": "என் சமூக பேட்டரி: மிக குறைவாக உள்ளது",
+    "local_path": "data/memes/meme_005.png"
+  },
+  {
+    "id": "meme_006",
+    "emotion_tags": ["sad"],
+    "caption_en": "Sadness 1, Me 0. But tomorrow is a new match 💪",
+    "caption_ta": "சோகம் 1, நான் 0. ஆனால் நாளை ஒரு புதிய போட்டி.",
+    "local_path": "data/memes/meme_006.png"
+  },
+  {
+    "id": "meme_007",
+    "emotion_tags": ["anxious"],
+    "caption_en": "My brain at 3 AM: Let's overthink everything! 🌙",
+    "caption_ta": "காலை 3 மணிக்கு என் மூளை: எல்லாவற்றையும் அதிகமாக யோசிப்போம்!",
+    "local_path": "data/memes/meme_007.png"
+  },
+  {
+    "id": "meme_008",
+    "emotion_tags": ["angry"],
+    "caption_en": "Me trying to stay calm. (Narrator: They did not.) 😂",
+    "caption_ta": "நான் அமைதியாக இருக்க முயற்சிக்கிறேன் (விவரிப்பாளர்: அவர்கள் அமைதியாக இல்லை)",
+    "local_path": "data/memes/meme_008.png"
+  },
+  {
+    "id": "meme_009",
+    "emotion_tags": ["stressed", "overwhelmed"],
+    "caption_en": "5 assignments due. Done so far: 0. 📚",
+    "caption_ta": "உங்களுக்கு 5 பணிகள் முடிக்க வேண்டும் மற்றும் நீங்கள் 0 செய்துள்ளீர்கள்",
+    "local_path": "data/memes/meme_009.png"
+  },
+  {
+    "id": "meme_010",
+    "emotion_tags": ["sad", "lonely"],
+    "caption_en": "Sometimes you just need a virtual hug 🤗",
+    "caption_ta": "சில நேரங்களில் உங்களுக்கு ஒரு மெய்நிகர் கட்டிப்பிடிப்பு தேவை 🤗",
+    "local_path": "data/memes/meme_010.png"
+  }
+]
